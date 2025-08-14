@@ -1,2 +1,2 @@
 # Xone-free-Download
-Xone-free
+Download Xone-free.exe and run with runned cs2
